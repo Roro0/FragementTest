@@ -14,6 +14,7 @@ import android.widget.TextView;
 
 
 /**
+ * 碎片练习
  * Created by Administrator on 2016/9/28.
  */
 public class MyActivity extends FragmentActivity implements AdapterView.OnItemClickListener {
